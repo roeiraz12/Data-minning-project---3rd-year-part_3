@@ -2,9 +2,10 @@
 
 # חברי הפרויקט: רועי ראז 322817081
 
+
 # הכנת שולחן העבודה:
 על שולחן העבודה עצמו יהיו הקבצים הבאים:
-1.trained_model.pkl
+1. trained_model.pkl
 2. assets_data_prep.py
 3. api.py
 4. title.crew.tsv.gz
